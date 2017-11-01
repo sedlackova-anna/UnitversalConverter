@@ -1,14 +1,11 @@
-//made a comment
+//Variable declerations
 var express = require('express');
 var app = express();
 var http = require('http').createServer(app);
-//var pg = require('pg');
 const { Pool, Client } = require('pg');
 var sio = require('socket.io');
 var io = sio(http);
 var port = process.env.PORT || 6969;
-
-
 
 sendData = function(socket){
   var dat = {};

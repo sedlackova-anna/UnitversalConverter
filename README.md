@@ -1,9 +1,3 @@
-# hackOHIO
-
-Lets make something!
-
-Idea:
-
-Weird Unit Converter
+Website that allows you to convert units of anything. Created during hackOhio.
 
 https://unitversal-converter.herokuapp.com/

@@ -1,3 +1,3 @@
 Website that allows you to convert units of anything. Created during hackOhio.
 
-https://unitversal-converter.herokuapp.com/
+Check it out -> https://unitversal-converter.herokuapp.com/
